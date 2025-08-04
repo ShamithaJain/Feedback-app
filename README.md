@@ -23,7 +23,7 @@ A full-stack customer feedback management system that helps you collect, analyze
 git clone https://github.com/ShamithaJain/Feedback-app.git
 cd Feedback-app
 npm install
-
+```
 ## 📸 Screenshots
 
 ### 🏠 Home Page
